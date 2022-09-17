@@ -1,0 +1,12 @@
+-------our travel company----------
+----------receipt---------
+___________________________
+Customer ID:  0
+
+Description		 Total
+Hotel Cost15000.00
+Cab cost12500.00
+___________________________
+Total Charge:		27500.00
+___________________________
+__________THANK YOU_________
